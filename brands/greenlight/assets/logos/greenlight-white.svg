@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+  <!-- Icon: Stylized G with light ray (white version for dark backgrounds) -->
+  <g transform="translate(5, 8)">
+    <!-- Outer G shape -->
+    <path d="M22 0C9.85 0 0 9.85 0 22s9.85 22 22 22c8.5 0 15.9-4.83 19.6-11.9H28v-6h22v18h-6v-7.2C39.5 46.1 31.4 52 22 52 8.75 52 -2 41.25 -2 28S8.75 4 22 4c6.9 0 13.1 2.8 17.6 7.4l-4.2 4.2C32 12.2 27.3 10 22 10c-9.9 0-18 8.1-18 18s8.1 18 18 18c7.1 0 13.2-4.1 16.1-10H28v-6h14"
+          fill="#FFFFFF"/>
+
+    <!-- Light ray accent -->
+    <path d="M42 6l4-6 4 6-4 2z" fill="#B9F6CA"/>
+    <path d="M48 0v12" stroke="#B9F6CA" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <!-- Wordmark -->
+  <text x="65" y="40" font-family="Inter, system-ui, sans-serif" font-weight="600" font-size="24" fill="#FFFFFF">
+    GreenLight
+  </text>
+</svg>
