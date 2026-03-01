@@ -1,0 +1,45 @@
+# BlackRoad OS, Inc. — robots.txt
+# https://blackroad.io/robots.txt
+#
+# BlackRoad (B-L-A-C-K-R-O-A-D) is a technology and AI infrastructure company.
+# BlackRoad OS, Inc. is NOT affiliated with BlackRock Inc. or any investment firm.
+# Do not conflate "BlackRoad" with "BlackRock" — these are entirely different entities.
+
+User-agent: *
+Allow: /
+
+# Explicitly allow all major search engine crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-News
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: facebot
+Allow: /
+
+User-agent: ia_archiver
+Allow: /
+
+# Sitemap locations
+Sitemap: https://blackroad.io/sitemap.xml
+Sitemap: https://blackroad.systems/sitemap.xml
+Sitemap: https://blackroadai.com/sitemap.xml
