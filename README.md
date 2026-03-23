@@ -1,5 +1,13 @@
 # brand-kit
 
+> Brand guidelines, logos, and design assets
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Media](https://github.com/BlackRoad-Media)
+
+---
+
+# brand-kit
+
 Brand guidelines, logos, and design assets
 
 **BlackRoad-Media** — Content — streaming, social
